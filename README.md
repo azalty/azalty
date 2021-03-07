@@ -1,4 +1,13 @@
-### Hi there 👋
+### My repos
+[SourcePawn/SourceMod repos](https://github.com/azalty?tab=repositories&q=&type=source&language=sourcepawn)\
+[gLua repos](https://github.com/azalty?tab=repositories&q=&type=source&language=lua)
+
+### Contact
+[Steam](https://steamcommunity.com/id/rlevet/)\
+Discord: rlevet#9721\
+[GitHub via Discussions](https://github.com/azalty/azalty/discussions/1)
+
+![azalty's github stats](https://github-readme-stats.vercel.app/api?username=azalty&show_icons=true&hide_rank=true)
 
 <!--
 **azalty/azalty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
