@@ -3,7 +3,7 @@
 [gLua repos](https://github.com/azalty?tab=repositories&q=&type=source&language=lua)
 
 ### Contact
-[Steam](https://steamcommunity.com/id/rlevet/)\
+[Steam](https://steamcommunity.com/id/azalty/)\
 Discord: azalty#9721\
 [GitHub via Discussions](https://github.com/azalty/azalty/discussions/1)
 
