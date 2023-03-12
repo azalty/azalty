@@ -1,6 +1,7 @@
 ### My repos
-[SourcePawn/SourceMod repos](https://github.com/azalty?tab=repositories&q=&type=source&language=sourcepawn)\
-[gLua repos](https://github.com/azalty?tab=repositories&q=&type=source&language=lua)
+[**SourcePawn/SourceMod repos**](https://github.com/azalty?tab=repositories&q=&type=source&language=sourcepawn)
+
+[gLua repos](https://github.com/azalty?tab=repositories&q=&type=source&language=lua) (old and unmaintained)
 
 ### Contact
 [Steam](https://steamcommunity.com/id/azalty/)\
