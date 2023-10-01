@@ -5,7 +5,7 @@
 
 ### Contact
 [Steam](https://steamcommunity.com/id/azalty/)\
-Discord: azalty#9721 or @azalty\
+Discord: @azalty\
 [GitHub via Discussions](https://github.com/azalty/azalty/discussions/1)
 
 ![azalty's github stats](https://github-readme-stats.vercel.app/api?username=azalty&show_icons=true&hide_rank=true&theme=transparent)
